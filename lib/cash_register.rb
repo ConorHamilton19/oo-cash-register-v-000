@@ -18,4 +18,5 @@ class CashRegister
     if @discount == 0 
     "There is no discount"
   end
+  end
 end 
